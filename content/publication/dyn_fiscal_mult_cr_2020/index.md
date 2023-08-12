@@ -40,7 +40,7 @@ url_code: ''
 #url_project: ''
 url_slides: files/slides/2019-JIE-15-multiplicador-Fiscal.pdf
 #url_source: ''
-#url_video: ''
+url_video: 'https://www.youtube.com/watch?v=4BSLcA_U-Kk'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

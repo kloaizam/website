@@ -41,7 +41,7 @@ url_code: ''
 #url_project: ''
 url_slides: files/slides/2020-JIE-04-MIP-Cantonal.pdf
 #url_source: ''
-#url_video: ''
+url_video: 'https://www.youtube.com/watch?v=kxWKG9c3VCI'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -41,7 +41,7 @@ url_code: ''
 #url_project: ''
 url_slides: files/slides/CINDE_Encadenamientos_presentación_ulacit_05_07_2023.pdf
 #url_source: ''
-#url_video: ''
+url_video: 'https://www.facebook.com/EconomiaUCR/videos/3113002532304862'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
