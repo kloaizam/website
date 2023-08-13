@@ -54,6 +54,9 @@ description = "PhD Candidate in Economics at Indiana University, Bloomington"
 ## Site Features
 ############################
 
+#Google Site Verification HTML Tag Method specifically for Kerry!
+google-site-verification = "wkGwFCoqjrcj5h9GO0KzKG0itjKPE_c13o12twYqqhA"
+
 # Enable source code highlighting? true/false
 # Documentation: https://sourcethemes.com/academic/docs/writing-markdown-latex/#highlighting-options
 highlight = true
