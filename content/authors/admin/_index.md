@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Kerry Loaiza-Marín
+link:
+url: https://kloaizam.github.io/website/
 
 # Username (this should match the folder name)
 authors:
