@@ -1,7 +1,9 @@
 ---
 # Display name
 title: Kerry Loaiza-Marín
-url: "/GitHub/website/content/authors/admin/google5c77b3df94fcb128.html"
+
+links:
+url: content/authors/admin/google5c77b3df94fcb128.html
 # Username (this should match the folder name)
 authors:
 - admin
